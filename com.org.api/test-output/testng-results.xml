@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6154" started-at="2018-04-25T13:34:05Z" finished-at="2018-04-25T13:34:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6154" started-at="2018-04-25T13:34:05Z" finished-at="2018-04-25T13:34:11Z">
+      <class name="APITESTING.com.org.api.WhetherGetRequests">
+        <test-method status="PASS" signature="Test_01()[pri:1, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_01" duration-ms="3493" started-at="2018-04-25T13:34:05Z" finished-at="2018-04-25T13:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+        <test-method status="PASS" signature="Test_02()[pri:2, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_02" duration-ms="141" started-at="2018-04-25T13:34:09Z" finished-at="2018-04-25T13:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_02 -->
+        <test-method status="PASS" signature="Test_03()[pri:3, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_03" duration-ms="416" started-at="2018-04-25T13:34:09Z" finished-at="2018-04-25T13:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_03 -->
+        <test-method status="PASS" signature="Test_04()[pri:4, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_04" duration-ms="312" started-at="2018-04-25T13:34:09Z" finished-at="2018-04-25T13:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_04 -->
+        <test-method status="PASS" signature="Test_05()[pri:5, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_05" duration-ms="185" started-at="2018-04-25T13:34:09Z" finished-at="2018-04-25T13:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_05 -->
+        <test-method status="PASS" signature="Test_06()[pri:6, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_06" duration-ms="174" started-at="2018-04-25T13:34:10Z" finished-at="2018-04-25T13:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_06 -->
+        <test-method status="PASS" signature="Test_07()[pri:7, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_07" duration-ms="771" started-at="2018-04-25T13:34:10Z" finished-at="2018-04-25T13:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_07 -->
+        <test-method status="PASS" signature="Test_08()[pri:8, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_08" duration-ms="197" started-at="2018-04-25T13:34:11Z" finished-at="2018-04-25T13:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_08 -->
+        <test-method status="PASS" signature="Test_09()[pri:9, instance:APITESTING.com.org.api.WhetherGetRequests@3ffc5af1]" name="Test_09" duration-ms="380" started-at="2018-04-25T13:34:11Z" finished-at="2018-04-25T13:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_09 -->
+      </class> <!-- APITESTING.com.org.api.WhetherGetRequests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
